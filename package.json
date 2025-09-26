@@ -1,0 +1,40 @@
+{
+  "name": "s3-mcp",
+  "version": "1.0.0",
+  "description": "S3 file upload utility with MCP integration for managing CSV files and data",
+  "main": "scripts/setup.js",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "upload": "node scripts/setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "s3-setup": "./scripts/setup.js"
+  },
+  "keywords": [
+    "s3",
+    "aws",
+    "upload",
+    "csv",
+    "mcp",
+    "file-management",
+    "cloud-storage"
+  ],
+  "author": "DavidWells",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.658.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidWells/s3-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidWells/s3-mcp/issues"
+  },
+  "homepage": "https://github.com/DavidWells/s3-mcp#readme"
+}

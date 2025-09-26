@@ -1,0 +1,67 @@
+Date,Product,Category,Sales_Rep,Quantity,Unit_Price,Total_Amount,Customer_ID,Customer_Name,Region
+2024-10-01,Gaming Console,Electronics,Rachel Green,5,499.99,2499.95,C151,Game World,Northeast
+2024-10-02,Gaming Controller,Accessories,Carlos Lopez,15,79.99,1199.85,C152,Control Zone,Southeast
+2024-10-03,Gaming Headset,Electronics,Rachel Green,12,129.99,1559.88,C153,Sound Game,Northeast
+2024-10-04,Gaming Chair,Accessories,Carlos Lopez,8,299.99,2399.92,C154,Comfort Game,Southeast
+2024-10-07,Gaming Desk,Accessories,Rachel Green,6,399.99,2399.94,C155,Game Station,Northeast
+2024-10-08,Monitor 4K,Electronics,Carlos Lopez,10,599.99,5999.90,C156,Crystal View,Southeast
+2024-10-09,Graphics Card,Electronics,Rachel Green,4,799.99,3199.96,C157,Visual Power,Northeast
+2024-10-10,Gaming Laptop,Electronics,Carlos Lopez,3,1499.99,4499.97,C158,Mobile Game,Southeast
+2024-10-11,Mechanical Keyboard,Electronics,Rachel Green,9,149.99,1349.91,C159,Type Game,Northeast
+2024-10-14,Gaming Mouse Pad,Accessories,Carlos Lopez,20,29.99,599.80,C160,Smooth Move,Southeast
+2024-10-15,RGB Lighting,Electronics,Rachel Green,16,49.99,799.84,C161,Color Game,Northeast
+2024-10-16,Cooling Fan,Electronics,Carlos Lopez,12,89.99,1079.88,C162,Cool Run,Southeast
+2024-10-17,Power Supply,Electronics,Rachel Green,7,199.99,1399.93,C163,Power Game,Northeast
+2024-10-18,SSD Drive,Electronics,Carlos Lopez,11,249.99,2749.89,C164,Speed Store,Southeast
+2024-10-21,RAM Memory,Electronics,Rachel Green,8,179.99,1439.92,C165,Memory Game,Northeast
+2024-10-22,Motherboard,Electronics,Carlos Lopez,5,349.99,1749.95,C166,Main Board,Southeast
+2024-10-23,CPU Processor,Electronics,Rachel Green,6,599.99,3599.94,C167,Brain Power,Northeast
+2024-10-24,Case Tower,Accessories,Carlos Lopez,4,199.99,799.96,C168,PC Home,Southeast
+2024-10-25,Cable Set,Accessories,Rachel Green,15,39.99,599.85,C169,Connect All,Northeast
+2024-10-28,Thermal Paste,Accessories,Carlos Lopez,25,19.99,499.75,C170,Cool Paste,Southeast
+2024-10-29,Anti-Static Wrist,Accessories,Rachel Green,18,24.99,449.82,C171,Safe Build,Northeast
+2024-10-30,Tool Kit PC,Accessories,Carlos Lopez,10,79.99,799.90,C172,Build Pro,Southeast
+2024-10-31,Test Bench,Accessories,Rachel Green,3,299.99,899.97,C173,Test Station,Northeast
+2024-11-01,Oscilloscope Mini,Electronics,Carlos Lopez,4,199.99,799.96,C174,Wave Watch,Southeast
+2024-11-04,Function Generator,Electronics,Rachel Green,2,399.99,799.98,C175,Signal Make,Northeast
+2024-11-05,Spectrum Analyzer,Electronics,Carlos Lopez,3,699.99,2099.97,C176,Freq Check,Southeast
+2024-11-06,Network Analyzer,Electronics,Rachel Green,2,899.99,1799.98,C177,Net Test,Northeast
+2024-11-07,Protocol Analyzer,Electronics,Carlos Lopez,4,499.99,1999.96,C178,Data Check,Southeast
+2024-11-08,Logic Probe,Accessories,Rachel Green,12,49.99,599.88,C179,Logic Test,Northeast
+2024-11-11,Digital Caliper,Accessories,Carlos Lopez,8,79.99,639.92,C180,Measure Precise,Southeast
+2024-11-12,Micrometer,Accessories,Rachel Green,6,129.99,779.94,C181,Micro Measure,Northeast
+2024-11-13,Dial Indicator,Accessories,Carlos Lopez,10,99.99,999.90,C182,Indicate True,Southeast
+2024-11-14,Surface Plate,Accessories,Rachel Green,2,599.99,1199.98,C183,Flat Surface,Northeast
+2024-11-15,Height Gauge,Accessories,Carlos Lopez,4,299.99,1199.96,C184,Height Check,Southeast
+2024-11-18,Thread Gauge,Accessories,Rachel Green,15,39.99,599.85,C185,Thread Test,Northeast
+2024-11-19,Radius Gauge,Accessories,Carlos Lopez,12,59.99,719.88,C186,Curve Check,Southeast
+2024-11-20,Feeler Gauge,Accessories,Rachel Green,20,29.99,599.80,C187,Gap Check,Northeast
+2024-11-21,Go No-Go Gauge,Accessories,Carlos Lopez,8,149.99,1199.92,C188,Limit Check,Southeast
+2024-11-22,Pin Gauge Set,Accessories,Rachel Green,6,199.99,1199.94,C189,Pin Check,Northeast
+2024-11-25,Ring Gauge Set,Accessories,Carlos Lopez,5,249.99,1249.95,C190,Ring Check,Southeast
+2024-11-26,Plug Gauge Set,Accessories,Rachel Green,4,299.99,1199.96,C191,Plug Check,Northeast
+2024-11-27,Snap Gauge,Accessories,Carlos Lopez,10,99.99,999.90,C192,Snap Check,Southeast
+2024-11-28,Bore Gauge,Accessories,Rachel Green,8,179.99,1439.92,C193,Bore Check,Northeast
+2024-11-29,Depth Gauge,Accessories,Carlos Lopez,12,79.99,959.88,C194,Depth Check,Southeast
+2024-12-02,Angle Gauge,Accessories,Rachel Green,6,129.99,779.94,C195,Angle Check,Northeast
+2024-12-03,Taper Gauge,Accessories,Carlos Lopez,8,99.99,799.92,C196,Taper Check,Southeast
+2024-12-04,Center Finder,Accessories,Rachel Green,10,59.99,599.90,C197,Center Find,Northeast
+2024-12-05,Edge Finder,Accessories,Carlos Lopez,12,49.99,599.88,C198,Edge Find,Southeast
+2024-12-06,Dial Test Indicator,Accessories,Rachel Green,5,149.99,749.95,C199,Test Indicate,Northeast
+2024-12-09,Magnetic Base,Accessories,Carlos Lopez,15,79.99,1199.85,C200,Hold Magnetic,Southeast
+2024-12-10,Indicator Holder,Accessories,Rachel Green,18,39.99,719.82,C033,Read All,Northeast
+2024-12-11,V-Block Set,Accessories,Carlos Lopez,6,199.99,1199.94,C034,Cool Down,Southeast
+2024-12-12,Parallel Set,Accessories,Rachel Green,4,299.99,1199.96,C035,Present Pro,Northeast
+2024-12-13,Sine Bar,Accessories,Carlos Lopez,3,399.99,1199.97,C036,Multi Control,Southeast
+2024-12-16,Angle Plate,Accessories,Rachel Green,5,249.99,1249.95,C037,Sound Studio,Northeast
+2024-12-17,Rotary Table,Accessories,Carlos Lopez,2,899.99,1799.98,C038,Photo Perfect,Southeast
+2024-12-18,Indexing Head,Accessories,Rachel Green,3,699.99,2099.97,C039,Steady Shot,Northeast
+2024-12-19,Dividing Head,Accessories,Carlos Lopez,2,1199.99,2399.98,C040,Comfort Zone,Southeast
+2024-12-20,Spin Indexer,Accessories,Rachel Green,4,499.99,1999.96,C041,Connect Easy,Northeast
+2024-12-23,Collet Set,Accessories,Carlos Lopez,8,179.99,1439.92,C042,Speed Store,Southeast
+2024-12-24,Chuck Set,Accessories,Rachel Green,6,249.99,1499.94,C043,Flash Forward,Northeast
+2024-12-25,Drill Chuck,Accessories,Carlos Lopez,10,99.99,999.90,C044,Print Wireless,Southeast
+2024-12-26,Face Mill,Accessories,Rachel Green,5,299.99,1499.95,C045,Scan Pro,Northeast
+2024-12-27,End Mill Set,Accessories,Carlos Lopez,12,199.99,2399.88,C046,Label Master,Southeast
+2024-12-30,Tap Set,Accessories,Rachel Green,15,149.99,2249.85,C047,Protect Print,Northeast
+2024-12-31,Die Set,Accessories,Carlos Lopez,10,179.99,1799.90,C048,Shred Safe,Southeast

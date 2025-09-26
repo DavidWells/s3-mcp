@@ -1,0 +1,66 @@
+Date,Product,Category,Sales_Rep,Quantity,Unit_Price,Total_Amount,Customer_ID,Customer_Name,Region
+2024-04-01,Smart Display,Electronics,Lisa Park,3,249.99,749.97,C052,Display Tech,East
+2024-04-02,Wireless Earbuds,Electronics,Tom Rodriguez,15,129.99,1949.85,C053,Audio Plus,Central
+2024-04-03,Phone Holder,Accessories,Lisa Park,20,19.99,399.80,C054,Hold Tight,East
+2024-04-04,Tablet Case,Accessories,Tom Rodriguez,12,39.99,479.88,C055,Case Study,Central
+2024-04-05,Stylus Pen,Accessories,Lisa Park,25,24.99,624.75,C056,Write On,East
+2024-04-08,Wireless Tracker,Electronics,Tom Rodriguez,8,59.99,479.92,C057,Find It,Central
+2024-04-09,Security Camera,Electronics,Lisa Park,4,199.99,799.96,C058,Watch Guard,East
+2024-04-10,Door Lock,Electronics,Tom Rodriguez,6,279.99,1679.94,C059,Secure Home,Central
+2024-04-11,Motion Sensor,Electronics,Lisa Park,10,49.99,499.90,C060,Move Detect,East
+2024-04-12,Smart Thermostat,Electronics,Tom Rodriguez,5,199.99,999.95,C061,Climate Control,Central
+2024-04-15,Air Purifier,Electronics,Lisa Park,3,299.99,899.97,C062,Clean Air,East
+2024-04-16,Humidifier,Electronics,Tom Rodriguez,4,149.99,599.96,C063,Moist Air,Central
+2024-04-17,Robot Vacuum,Electronics,Lisa Park,2,499.99,999.98,C064,Auto Clean,East
+2024-04-18,Smart Bulb,Electronics,Tom Rodriguez,20,29.99,599.80,C065,Bright Smart,Central
+2024-04-19,Light Switch,Accessories,Lisa Park,15,49.99,749.85,C066,Switch Smart,East
+2024-04-22,Outlet Cover,Accessories,Tom Rodriguez,30,14.99,449.70,C067,Safe Outlet,Central
+2024-04-23,Extension Socket,Accessories,Lisa Park,18,34.99,629.82,C068,More Power,East
+2024-04-24,Timer Switch,Accessories,Tom Rodriguez,12,39.99,479.88,C069,Time Control,Central
+2024-04-25,Dimmer Switch,Accessories,Lisa Park,10,59.99,599.90,C070,Light Control,East
+2024-04-26,Motion Light,Electronics,Tom Rodriguez,8,79.99,639.92,C071,Auto Light,Central
+2024-04-29,Solar Panel,Electronics,Lisa Park,2,599.99,1199.98,C072,Sun Power,East
+2024-04-30,Battery Pack,Electronics,Tom Rodriguez,6,199.99,1199.94,C073,Power Store,Central
+2024-05-01,Solar Light,Electronics,Lisa Park,12,89.99,1079.88,C074,Solar Bright,East
+2024-05-02,Wind Chime,Accessories,Tom Rodriguez,8,24.99,199.92,C075,Sound Wind,Central
+2024-05-03,Garden Hose,Accessories,Lisa Park,5,59.99,299.95,C076,Water Flow,East
+2024-05-06,Sprinkler,Accessories,Tom Rodriguez,4,99.99,399.96,C077,Rain Maker,Central
+2024-05-07,Plant Sensor,Electronics,Lisa Park,10,49.99,499.90,C078,Plant Care,East
+2024-05-08,Grow Light,Electronics,Tom Rodriguez,6,129.99,779.94,C079,Plant Grow,Central
+2024-05-09,Fertilizer,Accessories,Lisa Park,15,19.99,299.85,C080,Plant Food,East
+2024-05-10,Planter Box,Accessories,Tom Rodriguez,8,79.99,639.92,C081,Plant Home,Central
+2024-05-13,Garden Tool,Accessories,Lisa Park,12,39.99,479.88,C082,Dig Deep,East
+2024-05-14,Wheelbarrow,Accessories,Tom Rodriguez,3,199.99,599.97,C083,Heavy Haul,Central
+2024-05-15,Lawn Mower,Electronics,Lisa Park,2,799.99,1599.98,C084,Cut Grass,East
+2024-05-16,Leaf Blower,Electronics,Tom Rodriguez,4,249.99,999.96,C085,Blow Away,Central
+2024-05-17,Hedge Trimmer,Electronics,Lisa Park,3,179.99,539.97,C086,Trim Perfect,East
+2024-05-20,Chainsaw,Electronics,Tom Rodriguez,2,399.99,799.98,C087,Cut Power,Central
+2024-05-21,Pressure Washer,Electronics,Lisa Park,3,299.99,899.97,C088,Clean Power,East
+2024-05-22,Generator,Electronics,Tom Rodriguez,2,999.99,1999.98,C089,Power Backup,Central
+2024-05-23,Extension Ladder,Accessories,Lisa Park,4,199.99,799.96,C090,Reach High,East
+2024-05-24,Tool Box,Accessories,Tom Rodriguez,6,149.99,899.94,C091,Tool Store,Central
+2024-05-27,Drill Set,Electronics,Lisa Park,5,199.99,999.95,C092,Drill Pro,East
+2024-05-28,Saw Set,Accessories,Tom Rodriguez,4,249.99,999.96,C093,Cut All,Central
+2024-05-29,Hammer Set,Accessories,Lisa Park,8,79.99,639.92,C094,Hit Hard,East
+2024-05-30,Wrench Set,Accessories,Tom Rodriguez,6,129.99,779.94,C095,Turn Right,Central
+2024-05-31,Screwdriver Set,Accessories,Lisa Park,10,59.99,599.90,C096,Screw Tight,East
+2024-06-03,Level Tool,Accessories,Tom Rodriguez,12,49.99,599.88,C097,Stay Level,Central
+2024-06-04,Measuring Tape,Accessories,Lisa Park,15,24.99,374.85,C098,Measure Up,East
+2024-06-05,Square Tool,Accessories,Tom Rodriguez,10,39.99,399.90,C099,Stay Square,Central
+2024-06-06,Pliers Set,Accessories,Lisa Park,8,69.99,559.92,C100,Grip Tight,East
+2024-06-07,Wire Stripper,Accessories,Tom Rodriguez,12,34.99,419.88,C001,TechCorp Inc,Central
+2024-06-10,Multimeter,Electronics,Lisa Park,6,89.99,539.94,C002,SoundWave Ltd,East
+2024-06-11,Oscilloscope,Electronics,Tom Rodriguez,2,599.99,1199.98,C003,Cable World,Central
+2024-06-12,Signal Generator,Electronics,Lisa Park,3,399.99,1199.97,C004,Office Solutions,East
+2024-06-13,Logic Analyzer,Electronics,Tom Rodriguez,4,299.99,1199.96,C005,Click & Co,Central
+2024-06-14,Power Supply,Electronics,Lisa Park,5,249.99,1249.95,C006,ProtectIt Plus,East
+2024-06-17,Breadboard,Accessories,Tom Rodriguez,20,19.99,399.80,C007,Tablet World,Central
+2024-06-18,Jumper Wires,Accessories,Lisa Park,50,9.99,499.50,C008,PowerUp Inc,East
+2024-06-19,Resistor Kit,Accessories,Tom Rodriguez,25,29.99,749.75,C009,Guard Tech,Central
+2024-06-20,Capacitor Kit,Accessories,Lisa Park,20,39.99,799.80,C010,TimeKeepers,East
+2024-06-21,LED Kit,Accessories,Tom Rodriguez,30,24.99,749.70,C011,Stand Strong,Central
+2024-06-24,Arduino Board,Electronics,Lisa Park,10,49.99,499.90,C012,Type Master,East
+2024-06-25,Raspberry Pi,Electronics,Tom Rodriguez,8,79.99,639.92,C013,Auto Tech,Central
+2024-06-26,Sensor Kit,Accessories,Lisa Park,12,99.99,1199.88,C014,Game On,East
+2024-06-27,Motor Kit,Accessories,Tom Rodriguez,6,149.99,899.94,C015,View Point,Central
+2024-06-28,Servo Kit,Accessories,Lisa Park,8,129.99,1039.92,C016,Energy Store,East

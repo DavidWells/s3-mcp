@@ -1,0 +1,53 @@
+Date,Product,Category,Sales_Rep,Quantity,Unit_Price,Total_Amount,Customer_ID,Customer_Name,Region
+2024-01-02,Wireless Headphones,Electronics,Sarah Johnson,5,79.99,399.95,C001,TechCorp Inc,North
+2024-01-03,Bluetooth Speaker,Electronics,Mike Chen,3,149.99,449.97,C002,SoundWave Ltd,South
+2024-01-04,USB-C Cable,Accessories,Sarah Johnson,12,19.99,239.88,C003,Cable World,North
+2024-01-05,Laptop Stand,Accessories,David Wilson,2,59.99,119.98,C004,Office Solutions,West
+2024-01-08,Wireless Mouse,Electronics,Mike Chen,8,39.99,319.92,C005,Click & Co,South
+2024-01-09,Phone Case,Accessories,Sarah Johnson,15,24.99,374.85,C006,ProtectIt Plus,North
+2024-01-10,Tablet Holder,Accessories,David Wilson,4,34.99,139.96,C007,Tablet World,West
+2024-01-11,Wireless Charger,Electronics,Mike Chen,6,49.99,299.94,C008,PowerUp Inc,South
+2024-01-12,Screen Protector,Accessories,Sarah Johnson,20,14.99,299.80,C009,Guard Tech,North
+2024-01-15,Smart Watch,Electronics,David Wilson,3,199.99,599.97,C010,TimeKeepers,West
+2024-01-16,Earbuds Pro,Electronics,Mike Chen,10,89.99,899.90,C002,SoundWave Ltd,South
+2024-01-17,Phone Stand,Accessories,Sarah Johnson,7,29.99,209.93,C011,Stand Strong,North
+2024-01-18,Wireless Keyboard,Electronics,David Wilson,5,79.99,399.95,C012,Type Master,West
+2024-01-19,Car Charger,Accessories,Mike Chen,9,34.99,314.91,C013,Auto Tech,South
+2024-01-22,Gaming Mouse,Electronics,Sarah Johnson,4,99.99,399.96,C014,Game On,North
+2024-01-23,Monitor Stand,Accessories,David Wilson,3,69.99,209.97,C015,View Point,West
+2024-01-24,Power Bank,Electronics,Mike Chen,12,59.99,719.88,C016,Energy Store,South
+2024-01-25,Webcam HD,Electronics,Sarah Johnson,6,129.99,779.94,C017,Video Solutions,North
+2024-01-26,Cable Organizer,Accessories,David Wilson,15,19.99,299.85,C018,Neat Freak,West
+2024-01-29,Bluetooth Adapter,Electronics,Mike Chen,8,24.99,199.92,C019,Connect All,South
+2024-01-30,Desk Lamp,Accessories,Sarah Johnson,5,79.99,399.95,C020,Bright Ideas,North
+2024-01-31,Hard Drive,Electronics,David Wilson,4,149.99,599.96,C021,Data Vault,West
+2024-02-01,Memory Card,Electronics,Mike Chen,25,29.99,749.75,C022,Memory Lane,South
+2024-02-02,Router,Electronics,Sarah Johnson,2,189.99,379.98,C023,Net Works,North
+2024-02-05,Surge Protector,Accessories,David Wilson,6,49.99,299.94,C024,Safe Power,West
+2024-02-06,Extension Cord,Accessories,Mike Chen,10,24.99,249.90,C025,Long Reach,South
+2024-02-07,Wireless Router,Electronics,Sarah Johnson,3,199.99,599.97,C026,Speedy Net,North
+2024-02-08,USB Hub,Accessories,David Wilson,8,39.99,319.92,C027,Port Central,West
+2024-02-09,Bluetooth Headset,Electronics,Mike Chen,7,69.99,489.93,C028,Talk Time,South
+2024-02-12,Cable Tester,Accessories,Sarah Johnson,4,89.99,359.96,C029,Test Pro,North
+2024-02-13,Network Switch,Electronics,David Wilson,2,299.99,599.98,C030,Switch Master,West
+2024-02-14,HDMI Cable,Accessories,Mike Chen,20,19.99,399.80,C031,Video Link,South
+2024-02-15,Docking Station,Electronics,Sarah Johnson,3,249.99,749.97,C032,Dock Bay,North
+2024-02-16,Card Reader,Accessories,David Wilson,12,34.99,419.88,C033,Read All,West
+2024-02-19,Cooling Pad,Accessories,Mike Chen,5,59.99,299.95,C034,Cool Down,South
+2024-02-20,Wireless Presenter,Electronics,Sarah Johnson,4,79.99,319.96,C035,Present Pro,North
+2024-02-21,KVM Switch,Electronics,David Wilson,2,199.99,399.98,C036,Multi Control,West
+2024-02-22,Audio Interface,Electronics,Mike Chen,3,179.99,539.97,C037,Sound Studio,South
+2024-02-23,Digital Camera,Electronics,Sarah Johnson,2,499.99,999.98,C038,Photo Perfect,North
+2024-02-26,Tripod,Accessories,David Wilson,4,149.99,599.96,C039,Steady Shot,West
+2024-02-27,Memory Foam Pad,Accessories,Mike Chen,6,29.99,179.94,C040,Comfort Zone,South
+2024-02-28,Wireless Adapter,Electronics,Sarah Johnson,8,49.99,399.92,C041,Connect Easy,North
+2024-02-29,Portable SSD,Electronics,David Wilson,5,199.99,999.95,C042,Speed Store,West
+2024-03-01,USB Flash Drive,Electronics,Mike Chen,30,24.99,749.70,C043,Flash Forward,South
+2024-03-04,Wireless Printer,Electronics,Sarah Johnson,2,299.99,599.98,C044,Print Wireless,North
+2024-03-05,Scanner,Electronics,David Wilson,3,199.99,599.97,C045,Scan Pro,West
+2024-03-06,Label Printer,Electronics,Mike Chen,4,149.99,599.96,C046,Label Master,South
+2024-03-07,Laminator,Accessories,Sarah Johnson,2,89.99,179.98,C047,Protect Print,North
+2024-03-08,Paper Shredder,Accessories,David Wilson,3,199.99,599.97,C048,Shred Safe,West
+2024-03-11,Binding Machine,Accessories,Mike Chen,2,249.99,499.98,C049,Bind It,South
+2024-03-12,Projector,Electronics,Sarah Johnson,1,799.99,799.99,C050,Big Screen,North
+2024-03-13,Projection Screen,Accessories,David Wilson,2,299.99,599.98,C051,View Large,West
