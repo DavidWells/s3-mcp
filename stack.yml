@@ -1,0 +1,69 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'S3 MCP Infrastructure with Vendia Trust Relationship'
+
+Parameters:
+  YourBucketName:
+    Type: String
+    Description: Name of your S3 bucket
+    Default: s3-mcp-bucket
+
+Resources:
+  # S3 Bucket for the MCP application
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref YourBucketName
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      VersioningConfiguration:
+        Status: Enabled
+
+  # IAM Role for Vendia with trust relationship
+  VendiaAccessRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: VendiaS3AccessRole
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              AWS:
+                - 'arn:aws:iam::888092618687:root'
+                - 'arn:aws:iam::332134949057:root'
+            Action: 'sts:AssumeRole'
+      Policies:
+        - PolicyName: S3AccessPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - 's3:GetObject'
+                  - 's3:ListBucket'
+                  - 's3:PutObject'
+                Resource:
+                  - !Sub 'arn:aws:s3:::${YourBucketName}'
+                  - !Sub 'arn:aws:s3:::${YourBucketName}/*'
+
+Outputs:
+  BucketName:
+    Description: 'Name of the created S3 bucket'
+    Value: !Ref S3Bucket
+    Export:
+      Name: !Sub '${AWS::StackName}-BucketName'
+
+  VendiaRoleArn:
+    Description: 'ARN of the Vendia access role'
+    Value: !GetAtt VendiaAccessRole.Arn
+    Export:
+      Name: !Sub '${AWS::StackName}-VendiaRoleArn'
+
+  BucketArn:
+    Description: 'ARN of the created S3 bucket'
+    Value: !GetAtt S3Bucket.Arn
+    Export:
+      Name: !Sub '${AWS::StackName}-BucketArn'

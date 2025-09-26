@@ -6,10 +6,12 @@
   "scripts": {
     "setup": "node scripts/setup.js",
     "upload": "node scripts/setup.js",
+    "deploy": "node scripts/deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "s3-setup": "./scripts/setup.js"
+    "s3-setup": "./scripts/setup.js",
+    "s3-deploy": "./scripts/deploy.js"
   },
   "keywords": [
     "s3",
