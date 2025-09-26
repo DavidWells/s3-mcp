@@ -578,6 +578,8 @@ jobs:
           mode: ${{ github.event_name == 'workflow_dispatch' && 'agent' || 'tag' }}
           # direct prompt from workflow_dispatch event
           direct_prompt: ${{ github.event_name == 'workflow_dispatch' && needs.setup.outputs.trigger-text || '' }}
+          # Temp fix for https://github.com/anthropics/claude-code-action/issues/584
+          claude_args: '--model sonnet'
           # This is an optional setting that allows Claude to read CI results on PRs
           additional_permissions: |
             actions: read
