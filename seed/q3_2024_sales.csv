@@ -1,0 +1,67 @@
+Date,Product,Category,Sales_Rep,Quantity,Unit_Price,Total_Amount,Customer_ID,Customer_Name,Region
+2024-07-01,Fitness Tracker,Electronics,Amy Foster,12,149.99,1799.88,C101,Health Track,Northwest
+2024-07-02,Smart Scale,Electronics,Jake Thompson,8,99.99,799.92,C102,Weight Watch,Southwest
+2024-07-03,Heart Monitor,Electronics,Amy Foster,6,199.99,1199.94,C103,Heart Care,Northwest
+2024-07-04,Blood Pressure,Electronics,Jake Thompson,4,129.99,519.96,C104,Pressure Check,Southwest
+2024-07-05,Thermometer,Electronics,Amy Foster,15,39.99,599.85,C105,Temp Read,Northwest
+2024-07-08,Yoga Mat,Accessories,Jake Thompson,20,29.99,599.80,C106,Flex Zone,Southwest
+2024-07-09,Exercise Ball,Accessories,Amy Foster,10,49.99,499.90,C107,Ball Fit,Northwest
+2024-07-10,Resistance Band,Accessories,Jake Thompson,25,19.99,499.75,C108,Band Strong,Southwest
+2024-07-11,Dumbbells,Accessories,Amy Foster,8,79.99,639.92,C109,Weight Lift,Northwest
+2024-07-12,Jump Rope,Accessories,Jake Thompson,18,24.99,449.82,C110,Skip Fit,Southwest
+2024-07-15,Treadmill,Electronics,Amy Foster,3,1299.99,3899.97,C111,Run Fast,Northwest
+2024-07-16,Exercise Bike,Electronics,Jake Thompson,4,899.99,3599.96,C112,Bike Fit,Southwest
+2024-07-17,Rowing Machine,Electronics,Amy Foster,2,1199.99,2399.98,C113,Row Strong,Northwest
+2024-07-18,Elliptical,Electronics,Jake Thompson,3,1499.99,4499.97,C114,Ellipse Fit,Southwest
+2024-07-19,Home Gym,Electronics,Amy Foster,2,2499.99,4999.98,C115,Gym Home,Northwest
+2024-07-22,Protein Powder,Accessories,Jake Thompson,30,59.99,1799.70,C116,Protein Plus,Southwest
+2024-07-23,Vitamins,Accessories,Amy Foster,40,29.99,1199.60,C117,Health Boost,Northwest
+2024-07-24,Water Bottle,Accessories,Jake Thompson,25,19.99,499.75,C118,Hydro Flow,Southwest
+2024-07-25,Shaker Bottle,Accessories,Amy Foster,20,14.99,299.80,C119,Mix Well,Northwest
+2024-07-26,Gym Bag,Accessories,Jake Thompson,15,49.99,749.85,C120,Carry Fit,Southwest
+2024-07-29,Towel Set,Accessories,Amy Foster,18,34.99,629.82,C121,Sweat Away,Northwest
+2024-07-30,Workout Gloves,Accessories,Jake Thompson,22,24.99,549.78,C122,Grip Strong,Southwest
+2024-07-31,Knee Pads,Accessories,Amy Foster,16,39.99,639.84,C123,Protect Knee,Northwest
+2024-08-01,Ankle Weights,Accessories,Jake Thompson,12,29.99,359.88,C124,Weigh Down,Southwest
+2024-08-02,Foam Roller,Accessories,Amy Foster,10,59.99,599.90,C125,Roll Out,Northwest
+2024-08-05,Massage Gun,Electronics,Jake Thompson,6,299.99,1799.94,C126,Deep Massage,Southwest
+2024-08-06,Heating Pad,Electronics,Amy Foster,8,79.99,639.92,C127,Heat Relief,Northwest
+2024-08-07,Ice Pack,Accessories,Jake Thompson,20,19.99,399.80,C128,Cold Relief,Southwest
+2024-08-08,Compression Sleeve,Accessories,Amy Foster,24,34.99,839.76,C129,Support Arm,Northwest
+2024-08-09,Athletic Tape,Accessories,Jake Thompson,30,14.99,449.70,C130,Tape Strong,Southwest
+2024-08-12,Recovery Cream,Accessories,Amy Foster,15,24.99,374.85,C131,Heal Fast,Northwest
+2024-08-13,Muscle Balm,Accessories,Jake Thompson,18,29.99,539.82,C132,Soothe Pain,Southwest
+2024-08-14,First Aid Kit,Accessories,Amy Foster,12,49.99,599.88,C133,Safety First,Northwest
+2024-08-15,Elastic Bandage,Accessories,Jake Thompson,25,19.99,499.75,C134,Wrap Tight,Southwest
+2024-08-16,Antiseptic,Accessories,Amy Foster,20,14.99,299.80,C135,Clean Wound,Northwest
+2024-08-19,Pain Relief,Accessories,Jake Thompson,22,24.99,549.78,C136,No Pain,Southwest
+2024-08-20,Energy Drink,Accessories,Amy Foster,50,4.99,249.50,C137,Power Up,Northwest
+2024-08-21,Sports Drink,Accessories,Jake Thompson,40,3.99,159.60,C138,Hydrate Pro,Southwest
+2024-08-22,Protein Bar,Accessories,Amy Foster,60,2.99,179.40,C139,Quick Protein,Northwest
+2024-08-23,Energy Bar,Accessories,Jake Thompson,50,3.99,199.50,C140,Quick Energy,Southwest
+2024-08-26,Pre Workout,Accessories,Amy Foster,25,39.99,999.75,C141,Pump Up,Northwest
+2024-08-27,Post Workout,Accessories,Jake Thompson,20,34.99,699.80,C142,Recover Fast,Southwest
+2024-08-28,BCAA Powder,Accessories,Amy Foster,18,49.99,899.82,C143,Amino Power,Northwest
+2024-08-29,Creatine,Accessories,Jake Thompson,15,59.99,899.85,C144,Muscle Fuel,Southwest
+2024-08-30,Glutamine,Accessories,Amy Foster,12,44.99,539.88,C145,Recovery Aid,Northwest
+2024-09-02,Multivitamin,Accessories,Jake Thompson,35,29.99,1049.65,C146,Daily Health,Southwest
+2024-09-03,Omega 3,Accessories,Amy Foster,28,39.99,1119.72,C147,Brain Food,Northwest
+2024-09-04,Calcium,Accessories,Jake Thompson,24,24.99,599.76,C148,Bone Strong,Southwest
+2024-09-05,Magnesium,Accessories,Amy Foster,20,34.99,699.80,C149,Muscle Health,Northwest
+2024-09-06,Zinc,Accessories,Jake Thompson,30,19.99,599.70,C150,Immune Boost,Southwest
+2024-09-09,Vitamin D,Accessories,Amy Foster,32,29.99,959.68,C017,Video Solutions,Northwest
+2024-09-10,Vitamin C,Accessories,Jake Thompson,40,19.99,799.60,C018,Neat Freak,Southwest
+2024-09-11,Iron Supplement,Accessories,Amy Foster,22,34.99,769.78,C019,Connect All,Northwest
+2024-09-12,B Complex,Accessories,Jake Thompson,26,39.99,1039.74,C020,Bright Ideas,Southwest
+2024-09-13,Probiotics,Accessories,Amy Foster,18,49.99,899.82,C021,Data Vault,Northwest
+2024-09-16,Digestive Enzyme,Accessories,Jake Thompson,16,44.99,719.84,C022,Memory Lane,Southwest
+2024-09-17,Fiber Supplement,Accessories,Amy Foster,20,29.99,599.80,C023,Net Works,Northwest
+2024-09-18,Green Tea Extract,Accessories,Jake Thompson,24,34.99,839.76,C024,Safe Power,Southwest
+2024-09-19,Garcinia Extract,Accessories,Amy Foster,15,39.99,599.85,C025,Long Reach,Northwest
+2024-09-20,Apple Cider Vinegar,Accessories,Jake Thompson,28,24.99,699.72,C026,Speedy Net,Southwest
+2024-09-23,Turmeric,Accessories,Amy Foster,22,29.99,659.78,C027,Port Central,Northwest
+2024-09-24,Ginger Root,Accessories,Jake Thompson,18,34.99,629.82,C028,Talk Time,Southwest
+2024-09-25,Ashwagandha,Accessories,Amy Foster,16,44.99,719.84,C029,Test Pro,Northwest
+2024-09-26,Rhodiola,Accessories,Jake Thompson,14,49.99,699.86,C030,Switch Master,Southwest
+2024-09-27,Ginseng,Accessories,Amy Foster,20,39.99,799.80,C031,Video Link,Northwest
+2024-09-30,CoQ10,Accessories,Jake Thompson,12,59.99,719.88,C032,Dock Bay,Southwest
