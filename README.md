@@ -21,6 +21,9 @@ Deploy, seed your bucket, and chat with your S3 bucket in your AI tool of choice
 Deploy the CloudFormation stack to create the S3 bucket and IAM resources:
 
 ```bash
+# install deps
+npm install
+# deploy to your AWS account
 npm run deploy
 ```
 
