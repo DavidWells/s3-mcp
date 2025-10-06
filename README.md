@@ -1,6 +1,12 @@
 # Vendia S3 MCP Example
 
-A CloudFormation stack for deploying S3 infrastructure with MCP (Model Context Protocol) integration for managing CSV files and data.
+A CloudFormation stack for deploying an example S3 bucket and the required IAM policies to use with [Vendia's S3 MCP (Model Context Protocol) integration](https://docs.vendia.com/platform/vendia-mcp-server/faq/).
+
+After you deploy this stack, you can [connect the MCP](https://docs.vendia.com/platform/vendia-mcp-server/getting-started/) to Claude Desktop, OpenAI and other MCP tools.
+
+This projects setups a dummy bucket using the data in the `./seed` directory. You can replace this with your own data if you wish!
+
+Deploy, seed your bucket, and chat with your S3 bucket in your AI tool of choice.
 
 ## Prerequisites
 
