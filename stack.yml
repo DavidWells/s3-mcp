@@ -6,6 +6,14 @@ Parameters:
     Type: String
     Description: Name of your S3 bucket
     Default: s3-mcp-bucket
+  TrustPolicyAccountIdOne:
+    Type: String
+    Description: Vendia account ID that will be trusted to access the S3 bucket
+    Default: 690332314549
+  TrustPolicyAccountIdTwo:
+    Type: String
+    Description: Vendia account ID that will be trusted to access the S3 bucket
+    Default: 332134949057
 
 Resources:
   # S3 Bucket for the MCP application
@@ -32,8 +40,8 @@ Resources:
           - Effect: Allow
             Principal:
               AWS:
-                - 'arn:aws:iam::888092618687:root'
-                - 'arn:aws:iam::332134949057:root'
+                - !Sub 'arn:aws:iam::${TrustPolicyAccountIdOne}:root'
+                - !Sub 'arn:aws:iam::${TrustPolicyAccountIdTwo}:root'
             Action: 'sts:AssumeRole'
       Policies:
         - PolicyName: S3AccessPolicy
@@ -50,11 +58,29 @@ Resources:
                   - !Sub 'arn:aws:s3:::${YourBucketName}/*'
 
 Outputs:
+  Region:
+    Description: 'Region of the created S3 bucket'
+    Value: !Ref AWS::Region
+    Export:
+      Name: !Sub '${AWS::StackName}-Region'
+
   BucketName:
     Description: 'Name of the created S3 bucket'
     Value: !Ref S3Bucket
     Export:
       Name: !Sub '${AWS::StackName}-BucketName'
+
+  TrustPolicyAccountIdOne:
+    Description: 'Vendia account ID that will be trusted to access the S3 bucket'
+    Value: !Ref TrustPolicyAccountIdOne
+    Export:
+      Name: !Sub '${AWS::StackName}-TrustPolicyAccountIdOne'
+
+  TrustPolicyAccountIdTwo:
+    Description: 'Vendia account ID that will be trusted to access the S3 bucket'
+    Value: !Ref TrustPolicyAccountIdTwo
+    Export:
+      Name: !Sub '${AWS::StackName}-TrustPolicyAccountIdTwo'
 
   VendiaRoleArn:
     Description: 'ARN of the Vendia access role'
