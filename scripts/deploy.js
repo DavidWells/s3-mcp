@@ -224,6 +224,7 @@ node deploy.js --trust-account-one 690332314549 --trust-account-two 332134949057
     )
 
     log('✅ Stack deployment completed successfully!')
+    log('Run `npm run seed` to upload the seed data to the S3 bucket if you have not already.')
   }
 
   // Get and display outputs regardless of whether there were updates

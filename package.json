@@ -2,15 +2,15 @@
   "name": "s3-mcp",
   "version": "1.0.0",
   "description": "S3 file upload utility with MCP integration for managing CSV files and data",
-  "main": "scripts/setup.js",
+  "main": "scripts/deploy.js",
   "scripts": {
-    "setup": "node scripts/setup.js",
-    "upload": "node scripts/setup.js",
+    "setup": "node scripts/seed.js",
+    "seed": "node scripts/seed.js",
     "deploy": "node scripts/deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "s3-setup": "./scripts/setup.js",
+    "s3-seed": "./scripts/seed.js",
     "s3-deploy": "./scripts/deploy.js"
   },
   "keywords": [
